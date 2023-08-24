@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305080591965",
+    "project_id": "cabbokking-58285",
+    "storage_bucket": "cabbokking-58285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305080591965:android:64084ed72c6ca388c8cfb4",
+        "android_client_info": {
+          "package_name": "com.carpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305080591965-6b4b9gsktk9qvbmbv2atd2qj9vbtp267.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_evyJUsI0gEaokXXKCisyoDaORuHb16c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305080591965-6b4b9gsktk9qvbmbv2atd2qj9vbtp267.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

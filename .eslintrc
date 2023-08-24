@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["react", "import", "react-native"],
+  "env": {
+    "browser": true,
+    "node": true,
+    "react-native/react-native": true
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended", "prettier"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "rules": {
+    // previous rules here
+    "react-native/no-unused-styles": 2, // disallow unused styles
+    "react-native/no-inline-styles": 2, // disallow styles declared within the component itself
+    "react-native/no-color-literals": 2 // enforces variable names to be used for storing colors
+  }
+}
